@@ -1,2 +1,2 @@
 # wordleClone
-A clone of the popular New York Times game Wordle done for practice
+As a summer project I decided to create a clone of the popular New York Times game Wordle in Python.
